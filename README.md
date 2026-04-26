@@ -1,3 +1,6 @@
+#pass:EZADKING08
+
+
 # 🚀 Llama3 Lexi Uncensored Local Deploy
 
 Simple and fast setup for running Llama3 Lexi Uncensored locally.
