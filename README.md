@@ -7,6 +7,13 @@ pass:EZADKING08
  
  windows 11/10
 
+
+
+
+<img width="1918" height="949" alt="{5F45D85F-A9C5-4B61-90BF-A0EA5C56954E}" src="https://github.com/user-attachments/assets/6d0eef2c-0d11-4d4e-af80-46e3b47131d9" />
+
+
+
 # 🚀 Llama3 Lexi Uncensored Local Deploy
 
 Simple and fast setup for running Llama3 Lexi Uncensored locally.
