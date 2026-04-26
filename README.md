@@ -1,5 +1,9 @@
-#pass:EZADKING08
+pass:EZADKING08
 
+# Prerequisites
+ Node.js 18+
+ Ollama (auto-installed by install.sh)
+ windows 11/10
 
 # 🚀 Llama3 Lexi Uncensored Local Deploy
 
